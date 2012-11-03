@@ -1012,7 +1012,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/View/XmlView.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/basics.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Cake/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web.config" afterPath="$PROJECT_DIR$/web.config" />
     </list>
     <ignored path="cake_websites.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1031,17 +1031,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="web.config" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web.config">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -1050,6 +1040,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/web.config" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="960" />
@@ -1202,7 +1199,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="35" column="16" selection-start="1678" selection-end="1678" vertical-scroll-proportion="0.7074911">
           <folding />
         </state>
       </provider>
